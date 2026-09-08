@@ -1,4 +1,4 @@
-# 🎬 Movie Analytics Dashboard
+# 🎬 Movie Analytics Project
 
 ## 📌 Overview
 A data analytics project built using MySQL, Python, Pandas, and Power BI to analyze movie data and create an interactive dashboard. The project demonstrates the complete workflow from data storage to visualization.
